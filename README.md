@@ -9,5 +9,13 @@ An Introduction to Mathematical Cryptography provides an introduction to public 
 It is a suitable text for advanced students in pure and applied mathematics and computer science, or the book may be used as a self-study. This book also provides a self-contained treatment of mathematical cryptography for the reader with limited mathematical background.
 
 ## Solutions:
-| Section | Documents |
+| Chapter | Documents |
 | ------- | --------- |
+| 1 | <kbd>LaTeX</kbd> <kbd>PDF</kbd> |
+| 2 | <kbd>LaTeX</kbd> <kbd>PDF</kbd> |
+| 3 | <kbd>LaTeX</kbd> <kbd>PDF</kbd> |
+| 4 | <kbd>LaTeX</kbd> <kbd>PDF</kbd> |
+| 5 | <kbd>LaTeX</kbd> <kbd>PDF</kbd> |
+| 6 | <kbd>LaTeX</kbd> <kbd>PDF</kbd> |
+| 7 | <kbd>LaTeX</kbd> <kbd>PDF</kbd> |
+| 8 | <kbd>LaTeX</kbd> <kbd>PDF</kbd> |
